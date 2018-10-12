@@ -29,7 +29,7 @@
 <script src="<?php $this->options->themeUrl('js/jquery.min.js'); ?>"></script>
 <?php endif; ?>
 <?php if ($this->options->baiduJavaScript == 'able'): ?>
-<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <?php endif; ?>
 <script src="<?php $this->options->themeUrl('js/jquery.marquee.min.js'); ?>"></script>
 <script>
@@ -54,7 +54,7 @@ window.onload = bgChange;
 <script src="<?php $this->options->themeUrl('js/jquery.min.js'); ?>"></script>
 <?php endif; ?>
 <?php if ($this->options->baiduJavaScript == 'able'): ?>
-<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <?php endif; ?>
 <script type="text/javascript">
         var setupContents = function () {
@@ -115,7 +115,7 @@ setInterval("scroll()", 500);
 <script src="<?php $this->options->themeUrl('js/jquery.min.js'); ?>"></script>
 <?php endif; ?>
 <?php if ($this->options->baiduJavaScript == 'able'): ?>
-<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <?php endif; ?>
 <script>
     $('body').show();
@@ -170,7 +170,7 @@ swal({
 <script src="<?php $this->options->themeUrl('js/jquery.min.js'); ?>"></script>
 <?php endif; ?>
 <?php if ($this->options->baiduJavaScript == 'able'): ?>
-<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <?php endif; ?>
 <script src="<?php $this->options->themeUrl('js/all.js'); ?>"></script>
 <?php if ($this->options->Prism== 'able'): ?>
