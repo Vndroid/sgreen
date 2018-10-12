@@ -6,10 +6,10 @@
 <?php $this->options->title() ?>
 </title>
 <!--[if lt IE 9]>
-    <script src="http://cdn.staticfile.org/html5shiv/r29/html5.min.js"></script>
+    <script src="//cdn.staticfile.org/html5shiv/r29/html5.min.js"></script>
     <![endif]-->
-<link rel="stylesheet" href="http://cdn.staticfile.org/normalize/3.0.1/normalize.min.css">
-<script type="text/javascript" src="http://cdn.staticfile.org/jquery/1.11.0/jquery.min.js"></script>
+<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/normalize/3.0.1/normalize.min.css">
+<script type="text/javascript" src="//cdnjs.loli.net/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <style type="text/css">
         .body404{
             position: absolute;
