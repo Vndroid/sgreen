@@ -1,10 +1,11 @@
 <?php
 /**
- * 这是一款小清新绿色Typecho主题。
+ * 这是一款小清新绿色 Typecho 主题。
+ * 简洁 清新
  * @package Sgreen Theme 
- * @author 一夜涕
- * @version 3.0
- * @link http://yiyeti.cc
+ * @author yiyeti
+ * @version 3.0.2
+ * @link http://wavengine.com
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
