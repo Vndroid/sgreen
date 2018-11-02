@@ -170,7 +170,7 @@ swal({
 <script src="<?php $this->options->themeUrl('js/jquery.min.js'); ?>"></script>
 <?php endif; ?>
 <?php if ($this->options->baiduJavaScript == 'able'): ?>
-<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <?php endif; ?>
 <script src="<?php $this->options->themeUrl('js/all.js'); ?>"></script>
 <?php if ($this->options->Prism== 'able'): ?>
