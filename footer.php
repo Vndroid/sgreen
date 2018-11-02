@@ -158,7 +158,7 @@ swal({
 <?php if ($this->options->Ipc== 'able'): ?>
 <a target="_blank" href="<?php $this->options->ipcurl() ?>" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="<?php $this->options->themeUrl('img/icp.png'); ?>" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 0px;"><?php $this->options->ipc() ?></p></a><br>
     <?php endif; ?>
-    Copyright &copy; 2015-2017 <a href="<?php $this->options->siteUrl(); ?>">
+    Copyright &copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>">
     <?php $this->options->title() ?>
     </a><br>
     Powered by <a href="http://typecho.org/">Typecho</a> &amp; <a href="https://github.com/wavengine/sgreen" target="_blank">Sgreen</a> Proudly
