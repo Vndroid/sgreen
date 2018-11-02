@@ -13,7 +13,7 @@ Current Lauguage: English | [Simplified Chinese](/README_CN.md)
 
 ## How to install
 
-Into your website root directory
+Into your website root directory, example:
 
 ```bash
 # cd /var/www/html/
@@ -36,3 +36,14 @@ Or you can download the zip package
 # https://github.com/wavengine/sgreen/archive/master.zip
 # unzip master.zip
 ```
+
+## How to update
+
+If you have a old version at local, Please disable the theme first, then run
+
+```bash
+# cd /your-theme-dir/
+# git pull
+```
+
+The last able the theme.
