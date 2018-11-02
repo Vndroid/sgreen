@@ -29,7 +29,7 @@
 <script src="<?php $this->options->themeUrl('js/jquery.min.js'); ?>"></script>
 <?php endif; ?>
 <?php if ($this->options->baiduJavaScript == 'able'): ?>
-<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <?php endif; ?>
 <script src="<?php $this->options->themeUrl('js/jquery.marquee.min.js'); ?>"></script>
 <script>
@@ -54,7 +54,7 @@ window.onload = bgChange;
 <script src="<?php $this->options->themeUrl('js/jquery.min.js'); ?>"></script>
 <?php endif; ?>
 <?php if ($this->options->baiduJavaScript == 'able'): ?>
-<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <?php endif; ?>
 <script type="text/javascript">
         var setupContents = function () {
@@ -115,7 +115,7 @@ setInterval("scroll()", 500);
 <script src="<?php $this->options->themeUrl('js/jquery.min.js'); ?>"></script>
 <?php endif; ?>
 <?php if ($this->options->baiduJavaScript == 'able'): ?>
-<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
 <?php endif; ?>
 <script>
     $('body').show();
@@ -161,7 +161,7 @@ swal({
     Copyright &copy; 2015-2017 <a href="<?php $this->options->siteUrl(); ?>">
     <?php $this->options->title() ?>
     </a><br>
-    Powered by <a href="http://typecho.org/">Typecho</a> 自豪的采用<a href="http://yiyeti.cc/zheteng/132.html" target="_blank">Sgreen</a>主题
+    Powered by <a href="http://typecho.org/">Typecho</a> &amp; <a href="https://github.com/wavengine/sgreen" target="_blank">Sgreen</a> Proudly
 </div>
   <?php $this->footer(); ?>
 </footer>
