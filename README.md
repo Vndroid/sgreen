@@ -42,7 +42,7 @@ Or you can download the zip package
 If you have a old version at local, Please disable the theme first, then run
 
 ```bash
-# cd /your-theme-dir/
+# cd /your-theme-dir/sgreen
 # git pull
 ```
 

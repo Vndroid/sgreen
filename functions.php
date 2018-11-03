@@ -124,14 +124,14 @@ $form->addInput($css->multiMode());
         array('able' => _t('启用'),
             'disable' => _t('禁止'),
         ),
-        'disable', _t('是否调用百度js库'), _t('默认禁止，启用则会调用百度js库加速网站，注意：启用HTTPS的童鞋请禁止此选项'));
+        'disable', _t('是否调用百度CDN'), _t('默认禁止，启用则会调用百度CDN库加速网站'));
     $form->addInput($baiduJavaScript);
 
 	$Copyright= new Typecho_Widget_Helper_Form_Element_Radio('Copyright',
         array('able' => _t('启用'),
             'disable' => _t('禁止'),
         ),
-        'disable', _t('是否启用版权保护功能'), _t('默认禁止，启用则别人在复制你的博文时会自动显示版权所有者'));
+        'disable', _t('是否启用版权保护功能'), _t('默认禁止，启用则别人在复制内容时会自动显示版权所有者'));
     $form->addInput($Copyright);
 
 	$Gress= new Typecho_Widget_Helper_Form_Element_Radio('Gress',

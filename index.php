@@ -2,6 +2,7 @@
 /**
  * 这是一款小清新绿色 Typecho 主题。
  * 简洁 清新
+ * 空白海报修改
  * @package Sgreen Theme 
  * @author yiyeti
  * @version 3.0.2
