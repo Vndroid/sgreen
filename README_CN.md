@@ -27,11 +27,13 @@
 克隆主题（推荐）
 
 ```bash
-# git clone https://github.com/wavengine/sgreen.git
+# git clone https://github.com/Vndroid/sgreen.git
 ```
+
 或者下载压缩包
+
 ```bash
-# https://github.com/wavengine/sgreen/archive/master.zip
+# https://github.com/Vndroid/sgreen/archive/master.zip
 # unzip master.zip
 ```
 
