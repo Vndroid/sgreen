@@ -28,12 +28,12 @@ Into theme root directory
 Clone this theme (recommend)
 
 ```bash
-# git clone https://github.com/wavengine/sgreen.git
+# git clone https://github.com/Vndroid/sgreen.git
 ```
 
 Or you can download the zip package
 ```bash
-# https://github.com/wavengine/sgreen/archive/master.zip
+# https://github.com/Vndroid/sgreen/archive/master.zip
 # unzip master.zip
 ```
 
