@@ -97,7 +97,7 @@
           还原最美的笔尖记忆</p>
       </div>
       <a class="index404" rel="nofollow" href="<?php $this->options->siteUrl(); ?>">返回首页</a> </section>
-    <footer id="footer404">Copyright &copy; 2015-2017 <?php $this->options->title() ?></span> </footer>
+    <footer id="footer404">Copyright &copy; <?php echo date('Y'); ?> <?php $this->options->title() ?></span> </footer>
   </div>
 </div>
 </body>
