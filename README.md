@@ -7,7 +7,7 @@ A simple, small, green theme for [Typecho](http://typecho.org/).
 
 ## Intro
 
-Current Version: 3.0.2(181102) | [CHANGELOG](/CHANGELOG)
+Current Version: 3.0.2(181119) | [CHANGELOG](/CHANGELOG)
 
 Current Lauguage: English | [Simplified Chinese](/README_CN.md)
 
